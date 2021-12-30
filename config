@@ -1,0 +1,2 @@
+//Heroku config , create a file name Procfile an include this:
+web: node app.js
